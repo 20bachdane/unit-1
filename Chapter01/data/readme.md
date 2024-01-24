@@ -1,0 +1,2 @@
+Dane Bach, 2024
+ This folder holds data files used to create your thematic web maps, and thus is not necessary for all websites.  The data folder can hold CSV, GeoJSON, and other open formats that we will cover later. If you ever need to include Esri Shapefiles in your website, place these in a shapefiles subdirectory of the data folder since a shapefile in itself is technically a file directory just like a website.
